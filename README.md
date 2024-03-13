@@ -45,33 +45,33 @@ For Exhastued workers....
 
 <details> <summary>Rare</summary>
 
-Gameboy
+    Gameboy
 ![Gameboy](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Gameboy.png)
 Sorry. But you can't play Tetris :(
 
-RGB Keyboard
+    RGB Keyboard
 ![RGB Keyboard](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/RGB%20Keyboard.png)
 RGB Lights.
 </details>
 
 <details> <summary>Uncommon</summary>
 
-Toothless
+    Toothless
 ![Toothless](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Toothless.png)
 He's not dancing, but still cool
 
-Worker Figure
+    Worker Figure
 ![Worker Figure](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Worker%20Figure.png)
 Cute miniature.
 </details>
 
 <details> <summary>Common</summary>
 
-Barnums Animal
+    Barnums Animal
 ![Barnums Animal](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Barnums%20Animal.png)
 Good Source of CALCUIM.
 
-Chocoemon
+    Chocoemon
 ![Chocoemon](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Chocoemon.png)
 Don't overdo it. Take this.
 </details>
