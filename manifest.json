@@ -1,7 +1,7 @@
 {
   "name": "Epic_Scraps",
   "version_number": "1.0.6",
-  "website_url": "",
+  "website_url": "https://github.com/CRAZY-puppy/Epic-Scraps",
   "description": "Adds some EPIC scraps.",
   "dependencies": [
     "jockie-LethalExpansionCore-1.3.15",

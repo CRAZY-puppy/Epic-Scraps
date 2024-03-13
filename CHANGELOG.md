@@ -24,5 +24,5 @@ Added SFX for some scraps. fixed diamond shovel spawn rate.
 
 # Epic_Scraps 1.0.6
 
-Increased all scrap spawn rate. Balanced some scrap prices. Added VFX for Some Scraps...? 
+Increased all scrap spawn rate. Balanced some scrap prices. Added Preview. Added VFX for Some Scraps...? 
 
