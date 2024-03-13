@@ -23,22 +23,22 @@ Items:
 
 <details> <summary>Epic</summary>
 
-Diamond Shovel
+    Diamond Shovel
 ![Diamond Shovel](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Diamond%20Shovel.png)
 From another dimension, for ULTIMATE self-defense!
     
-Frame
+    Frame
 ![Frame](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Frame.png) 
 It's a frame, I promise.
 </details>
 
 <details> <summary>Super Rare</summary>
 
-Freddy Fazbear
+    Freddy Fazbear
 ![Freddy Fazbear](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Freddy%20Fazbear.png)
 O Cholera, Czy To Freddy Fazbear?
 
-Body Pillow
+    Body Pillow
 ![Body Pillow](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Body%20Pillow.png)
 For Exhastued workers....
 </details>
