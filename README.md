@@ -1,8 +1,14 @@
-# Epic_Scraps 1.0.6
+# Epic_Scraps
 
 Currently adds 10 EPIC scraps.
 
-Next Release will be 1.1.0.
+Next Release will be 1.1.0
+
+# Feedbacks  
+
+If you have any ideas or problems while playing the mod, Please leave your Comments in the GitHub's issue tab.	
+
+
 
 # Scrap Items
 Items:
@@ -23,7 +29,6 @@ Items:
 
 <details> <summary>Epic</summary>
 Rarely appears. Hardly appears in free moons.  
-    
     Diamond Shovel
 ![Diamond Shovel](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Diamond%20Shovel.png)
 From another dimension, for ULTIMATE self-defense!
@@ -35,7 +40,6 @@ It's a frame, I promise.
 
 <details> <summary>Super Rare</summary>
 Occasionally appears. Rarely appears in free moons.  
-    
     Freddy Fazbear
 ![Freddy Fazbear](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Freddy%20Fazbear.png)  
 O Cholera, Czy To Freddy Fazbear?
@@ -47,7 +51,6 @@ For Exhastued workers....
 
 <details> <summary>Rare</summary>
 Sometimes appears. Occasionally appears in free moons.  
-    
     Gameboy
 ![Gameboy](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Gameboy.png)  
 Sorry. But you can't play Tetris :(
@@ -58,8 +61,7 @@ RGB Lights.
 </details>
 
 <details> <summary>Uncommon</summary>
-Appears often.  
-    
+Appears often.
     Toothless
 ![Toothless](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Toothless.png)  
 He's not dancing, but still cool
@@ -70,8 +72,7 @@ Cute miniature.
 </details>
 
 <details> <summary>Common</summary>
-Appears most often.  
-    
+Appears most often.
     Barnums Animal
 ![Barnums Animal](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Barnums%20Animal.png)  
 Good Source of CALCUIM.
