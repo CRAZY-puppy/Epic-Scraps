@@ -27,8 +27,9 @@ Items:
 ## Previews
 <b>Rairity</b>
 
-<details> <summary>_Epic_</summary>
-**Rarely appears. Hardly appears in free moons. ** 
+<details> <summary> Epic </summary>
+    
+**Rarely appears. Hardly appears in free moons.** 
     
     Diamond Shovel
 ![Diamond Shovel](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Diamond%20Shovel.png)
@@ -39,8 +40,9 @@ Items:
 **It's a frame, I promise.**
 </details>
 
-<details> <summary>_Super Rare_</summary>
-**Occasionally appears. Rarely appears in free moons. ** 
+<details> <summary>Super Rare</summary>
+
+**Occasionally appears. Rarely appears in free moons.** 
     
     Freddy Fazbear
 ![Freddy Fazbear](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Freddy%20Fazbear.png)  
@@ -51,7 +53,8 @@ Items:
 **For Exhastued workers....**
 </details>
 
-<details> <summary>_Rare_</summary>
+<details> <summary>Rare</summary>
+    
 **Sometimes appears. Occasionally appears in free moons.**  
     
     Gameboy
@@ -63,7 +66,8 @@ Items:
 **RGB Lights!**
 </details>
 
-<details> <summary>_Uncommon_</summary>
+<details> <summary>Uncommon</summary>
+
 **Appears often.**
     
     Toothless
@@ -75,7 +79,8 @@ Items:
 **Cute miniature.**
 </details>
 
-<details> <summary>_Common_</summary>
+<details> <summary>Common</summary>
+
 **Appears most often.**
     
     Barnums Animal
