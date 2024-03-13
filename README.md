@@ -22,6 +22,12 @@ Items:
 <b>Rairity</b>
 
 <details> <summary>Epic</summary>
+
+    ### Diamond Shovel
+![Diamond Shovel](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Diamond%20Shovel.png)
+    
+    ### Frame
+![Frame](https://raw.githubusercontent.com/CRAZY-puppy/Epic-Scraps/main/Preview/Frame.png)   
 </details>
 
 <details> <summary>Super Rare</summary>
